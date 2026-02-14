@@ -129,24 +129,28 @@
 
 ## 扩展/脚本
 
-| [猫抓](https://github.com/xifangczy/cat-catch) | 浏览器资源嗅探扩展 |
-| [沉浸式翻译](https://github.com/immersive-translate/immersive-translate) | 翻译工具 |
-| [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | Gemini网页优化 |
-| [ublacklist](https://github.com/iorate/ublacklist) | 在搜索结果中屏蔽指定的网站 |
-| [LinuxDo Scripts](https://github.com/anghunk/linuxdo-scripts) | LinuxDo优化 |
-| [链接助手](https://github.com/utags/links-helper) | 自定义新标签页打开链接 |
-| [BewlyCat](https://github.com/keleus/BewlyCat) | 哔哩哔哩美化扩展 |
+| 名称                                                                       | 描述                            |
+| :------------------------------------------------------------------------- | :------------------------------ |
+| [猫抓](https://github.com/xifangczy/cat-catch)                             | 浏览器资源嗅探扩展              |
+| [沉浸式翻译](https://github.com/immersive-translate/immersive-translate)   | 翻译工具                        |
+| [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)               | Gemini网页优化                  |
+| [ublacklist](https://github.com/iorate/ublacklist)                         | 在搜索结果中屏蔽指定的网站      |
+| [LinuxDo Scripts](https://github.com/anghunk/linuxdo-scripts)              | LinuxDo优化                     |
+| [链接助手](https://github.com/utags/links-helper)                          | 自定义新标签页打开链接          |
+| [BewlyCat](https://github.com/keleus/BewlyCat)                             | 哔哩哔哩美化扩展                |
 | [去除链接重定向](https://github.com/zhangfangzhou01/remove-link-redirects) | 去除各搜索引擎/常用网站的重定向 |
-| [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 跳过哔哩哔哩视频中恰饭片段 |
-| [知乎修改器](https://github.com/liuyubing233/zhihu-custom) | 知乎增强、优化脚本 |
-| [MikuMagicWand](https://github.com/adproqwq/MikuMagicWand) | GKD网页审查工具增强脚本 |
+| [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)     | 跳过哔哩哔哩视频中恰饭片段      |
+| [知乎修改器](https://github.com/liuyubing233/zhihu-custom)                 | 知乎增强、优化脚本              |
+| [MikuMagicWand](https://github.com/adproqwq/MikuMagicWand)                 | GKD网页审查工具增强脚本         |
 
 ## 其他
 
-| [icones](https://github.com/antfu-collective/icones) | 图标收集网站 |
-| [Mihon扩展](https://github.com/keiyoushi/extensions) | Mihon漫画源仓库 |
-| [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | AI相关工具收集 |
-| [SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) | 机场推荐 |
+| 名称                                                                               | 描述              |
+| :--------------------------------------------------------------------------------- | :---------------- |
+| [icones](https://github.com/antfu-collective/icones)                               | 图标收集网站      |
+| [Mihon扩展](https://github.com/keiyoushi/extensions)                               | Mihon漫画源仓库   |
+| [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)                      | AI相关工具收集    |
+| [SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)  | 机场推荐          |
 | [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ChatGPT中文提示词 |
-| [fuck-u-code](https://github.com/Done-0/fuck-u-code) | 屎山代码检测器 |
-| [MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) | mihomo配置收集 |
+| [fuck-u-code](https://github.com/Done-0/fuck-u-code)                               | 屎山代码检测器    |
+| [MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS)                         | mihomo配置收集    |
