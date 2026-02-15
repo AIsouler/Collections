@@ -67,6 +67,7 @@
 | [Dhizuku](https://github.com/iamr0s/Dhizuku)                                                          | 分享设备管理者权限的应用                                 |
 | [Bujuan](https://github.com/2697a/bujuan)                                                             | 第三方网易云音乐                                         |
 | [QingMusic](https://github.com/kejichangqing/QingMusic)                                               | 本地音乐播放器                                           |
+| [Stellar](https://github.com/roro2239/Stellar)                                                        | shizuku分支                                              |
 
 ---
 
@@ -124,6 +125,7 @@
 | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)              | 显示硬件使用信息的工具                                                        |
 | [Upscayl](https://github.com/upscayl/upscayl)                                 | 图像放大软件                                                                  |
 | [SteamTools](https://github.com/BeyondDimension/SteamTools)                   | 多功能Steam工具箱                                                             |
+| [Stretchly](https://github.com/hovancik/stretchly)                            | 休息时间提醒应用                                                              |
 
 ---
 
