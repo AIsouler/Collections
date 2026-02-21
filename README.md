@@ -68,6 +68,7 @@
 | [Bujuan](https://github.com/2697a/bujuan)                                                             | 第三方网易云音乐                                         |
 | [QingMusic](https://github.com/kejichangqing/QingMusic)                                               | 本地音乐播放器                                           |
 | [Stellar](https://github.com/roro2239/Stellar)                                                        | shizuku分支                                              |
+| [Lyrico](https://github.com/Replica0110/Lyrico)                                                       | 本地歌曲标签编辑软件，可匹配逐字歌词                     |
 
 ---
 
