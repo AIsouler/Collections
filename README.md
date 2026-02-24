@@ -21,7 +21,7 @@
 | [MT管理器](https://mt2.cn/)                                                                           | 文件管理神器                                             |
 | [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)                                 | 应用安装器，对国内系统的垃圾安装器说再见                 |
 | [FlClash](https://github.com/chen08209/FlClash)                                                       | 简洁美观的代理客户端，界面采用Material Design            |
-| [LiClash](https://github.com/appshubcc/LiClash)                                                       | 更接地气的FlClash                                        |
+| [Bettbox](https://github.com/appshubcc/Bettbox)                                                       | 更好用的FlClash                                          |
 | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)                            | mihomo官方代理客户端                                     |
 | [Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) | Google出品的身份验证器，简洁占用小                       |
 | [复制验证码](https://github.com/jd1378/otphelper)                                                     | 自动复制验证码，但貌似在Android16上不起作用              |
@@ -80,6 +80,7 @@
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
 | [bitwarden](https://github.com/bitwarden/clients)                             | 密码管理软件                                                                  |
 | [FlClash](https://github.com/chen08209/FlClash)                               | 简洁美观的代理客户端，界面采用Material Design                                 |
+| [Bettbox](https://github.com/appshubcc/Bettbox)                               | 更好用的FlClash                                                               |
 | [Salt Player](https://moriafly.com/)                                          | 简洁美观的本地音乐播放器                                                      |
 | [kazumi](https://github.com/Predidit/Kazumi)                                  | 看番软件                                                                      |
 | [Flix](https://flix.center/)                                                  | 局域网传输工具，支持全平台                                                    |
