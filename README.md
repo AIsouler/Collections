@@ -128,6 +128,8 @@
 | [Upscayl](https://github.com/upscayl/upscayl)                                 | 图像放大软件                                                                  |
 | [SteamTools](https://github.com/BeyondDimension/SteamTools)                   | 多功能Steam工具箱                                                             |
 | [Stretchly](https://github.com/hovancik/stretchly)                            | 休息时间提醒应用                                                              |
+| [breeze-shell](https://github.com/std-microblock/breeze-shell)                | Windows右键菜单优化工具                                                       |
+| [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)        | Windows右键菜单上下文管理工具具                                               |
 
 ---
 
