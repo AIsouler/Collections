@@ -36,7 +36,6 @@
 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)                                                 | 第三方哔哩哔哩                                           |
 | [BiliPai](https://github.com/jay3-yy/BiliPai)                                                         | 第三方哔哩哔哩                                           |
 | [质感文件](https://github.com/zhanghai/MaterialFiles)                                                 | 简洁流畅的文件管理器                                     |
-| [Nekogram](https://github.com/Nekogram/Nekogram)                                                      | 第三方Telegram                                           |
 | [PixEz](https://github.com/Notsfsssf/pixez-flutter)                                                   | 第三方pixiv                                              |
 | [javDB](https://jav.app/)                                                                             | 学习软件                                                 |
 | [ReadYou](https://github.com/ReadYouApp/ReadYou)                                                      | 界面简洁的RSS订阅软件                                    |
