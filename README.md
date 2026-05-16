@@ -68,6 +68,8 @@
 | [QingMusic](https://github.com/kejichangqing/QingMusic)                                               | 本地音乐播放器                                           |
 | [Stellar](https://github.com/roro2239/Stellar)                                                        | shizuku分支                                              |
 | [Lyrico](https://github.com/Replica0110/Lyrico)                                                       | 本地歌曲标签编辑软件，可匹配逐字歌词                     |
+| [PicaComic](https://github.com/Pacalini/PicaComic)                                                    | 漫画软件                                                 |
+| [haka_comic](https://github.com/raoxwup/haka_comic)                                                   | 哔咔第三方                                               |
 
 ---
 
@@ -75,61 +77,62 @@
 
 > Windows端应用
 
-| 名称                                                                          | 描述                                                                          |
-| :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| [bitwarden](https://github.com/bitwarden/clients)                             | 密码管理软件                                                                  |
-| [FlClash](https://github.com/chen08209/FlClash)                               | 简洁美观的代理客户端，界面采用Material Design                                 |
-| [Bettbox](https://github.com/appshubcc/Bettbox)                               | 更好用的FlClash                                                               |
-| [Salt Player](https://moriafly.com/)                                          | 简洁美观的本地音乐播放器                                                      |
-| [kazumi](https://github.com/Predidit/Kazumi)                                  | 看番软件                                                                      |
-| [Flix](https://flix.center/)                                                  | 局域网传输工具，支持全平台                                                    |
-| [LiteMonitor](https://github.com/Diorser/LiteMonitor)                         | 硬件监控软件，界面美观简洁                                                    |
-| [ClipShare](https://github.com/aa2013/ClipShare)                              | 跨设备同步剪切板                                                              |
-| [VeraCrypt](https://github.com/veracrypt/VeraCrypt)                           | 专业的磁盘加密软件                                                            |
-| [Sparkle](https://github.com/INKCR0W/sparkle)                                 | 美观的代理客户端                                                              |
-| [Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)                 | 代理客户端                                                                    |
-| [PixPin](https://pixpin.cn/)                                                  | 强大的截图工具，支持多种标记、长截图、录制GIF、录制视频等，免费版足够日常使用 |
-| [snow-shot](https://github.com/mg-chao/snow-shot)                             | 截图工具                                                                      |
-| [WizTree](https://diskanalyzer.com/)                                          | 磁盘空间分析软件                                                              |
-| [K-Lite](https://codecguide.com/download_kl.htm)                              | 视频播放器，完整版包含捆绑软件                                                |
-| [Final2x](https://github.com/EutropicAI/Final2x)                              | 图像超分辨率工具                                                              |
-| [rustdesk](https://github.com/rustdesk/rustdesk)                              | 远程控制桌面软件                                                              |
-| [OpenCut](https://github.com/OpenCut-app/OpenCut)                             | 免费开源的视频剪辑软件                                                        |
-| [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)                      | FFmpeg套壳UI，界面美观，交互友好                                              |
-| [SnapLock](https://github.com/OldSuns/SnapLock)                               | 离开电脑时自动监控并拍照锁屏防止他人操作电脑                                  |
-| [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility)              | 自动将Windows资源管理器窗口转换为标签页                                       |
-| [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)               | 自定义Windows任务栏透明度                                                     |
-| [aya](https://github.com/liriliri/aya)                                        | Android ADB 桌面应用程序                                                      |
-| [BongoCat](https://github.com/ayangweb/BongoCat)                              | 互动桌宠                                                                      |
-| [video2x](https://github.com/k4yt3x/video2x)                                  | 视频超分辨率和插帧                                                            |
-| [AltSnap](https://github.com/RamonUnch/AltSnap)                               | 按住Alt随意控制窗口                                                           |
-| [kdeconnect](https://kdeconnect.kde.org/download.html)                        | 局域网跨设备同步剪切板、文件、通知等                                          |
-| [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)                | 小红书作品下载器                                                              |
-| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)             | 第三方音乐播放器                                                              |
-| [Gopeed](https://github.com/GopeedLab/gopeed)                                 | 下载工具                                                                      |
-| [AB Download Manager](https://github.com/amir1376/ab-download-manager)        | 下载工具                                                                      |
-| [zyfun](https://github.com/Hiram-Wong/zyfun)                                  | 跨平台桌面端视频资源播放器                                                    |
-| [Screenbox](https://github.com/huynhsontung/Screenbox)                        | 本地视频播放器                                                                |
-| [HandBrake](https://github.com/HandBrake/HandBrake)                           | 视频处理工具                                                                  |
-| [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)                | Bilibili 视频下载器                                                           |
-| [File Converter](https://github.com/Tichau/FileConverter)                     | 转换文件格式                                                                  |
-| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)             | Windows激活工具                                                               |
-| [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)                              | 开源、免费的离线OCR软件                                                       |
-| [DevToys](https://github.com/DevToys-app/DevToys)                             | 开发者小工具                                                                  |
-| [Pixeval](https://github.com/Pixeval/Pixeval)                                 | 第三方pixiv客户端                                                             |
-| [Zen](https://github.com/ZenPrivacy/zen-desktop)                              | 广告拦截工具                                                                  |
-| [SPlayer](https://github.com/imsyy/SPlayer)                                   | 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体            |
-| [dupeGuru](https://github.com/arsenetar/dupeguru)                             | 查找重复文件                                                                  |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic)                       | 第三方网易云音乐                                                              |
-| [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) | 联想笔记本工具集                                                              |
-| [LocalSend](https://github.com/localsend/localsend)                           | 局域网传输软件                                                                |
-| [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)              | 显示硬件使用信息的工具                                                        |
-| [Upscayl](https://github.com/upscayl/upscayl)                                 | 图像放大软件                                                                  |
-| [SteamTools](https://github.com/BeyondDimension/SteamTools)                   | 多功能Steam工具箱                                                             |
-| [Stretchly](https://github.com/hovancik/stretchly)                            | 休息时间提醒应用                                                              |
-| [breeze-shell](https://github.com/std-microblock/breeze-shell)                | Windows右键菜单优化工具                                                       |
-| [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)        | Windows右键菜单上下文管理工具具                                               |
-| [UniGetUI](https://github.com/Devolutions/UniGetUI)                           | 软件管理器，可连接GitHub账号备份软件列表                                      |
+| 名称                                                                                   | 描述                                                                          |
+| :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [bitwarden](https://github.com/bitwarden/clients)                                      | 密码管理软件                                                                  |
+| [FlClash](https://github.com/chen08209/FlClash)                                        | 简洁美观的代理客户端，界面采用Material Design                                 |
+| [Bettbox](https://github.com/appshubcc/Bettbox)                                        | 更好用的FlClash                                                               |
+| [Salt Player](https://moriafly.com/)                                                   | 简洁美观的本地音乐播放器                                                      |
+| [kazumi](https://github.com/Predidit/Kazumi)                                           | 看番软件                                                                      |
+| [Flix](https://flix.center/)                                                           | 局域网传输工具，支持全平台                                                    |
+| [LiteMonitor](https://github.com/Diorser/LiteMonitor)                                  | 硬件监控软件，界面美观简洁                                                    |
+| [ClipShare](https://github.com/aa2013/ClipShare)                                       | 跨设备同步剪切板                                                              |
+| [VeraCrypt](https://github.com/veracrypt/VeraCrypt)                                    | 专业的磁盘加密软件                                                            |
+| [Sparkle](https://github.com/INKCR0W/sparkle)                                          | 美观的代理客户端                                                              |
+| [Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)                          | 代理客户端                                                                    |
+| [PixPin](https://pixpin.cn/)                                                           | 强大的截图工具，支持多种标记、长截图、录制GIF、录制视频等，免费版足够日常使用 |
+| [snow-shot](https://github.com/mg-chao/snow-shot)                                      | 截图工具                                                                      |
+| [WizTree](https://diskanalyzer.com/)                                                   | 磁盘空间分析软件                                                              |
+| [K-Lite](https://codecguide.com/download_kl.htm)                                       | 视频播放器，完整版包含捆绑软件                                                |
+| [Final2x](https://github.com/EutropicAI/Final2x)                                       | 图像超分辨率工具                                                              |
+| [rustdesk](https://github.com/rustdesk/rustdesk)                                       | 远程控制桌面软件                                                              |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut)                                      | 免费开源的视频剪辑软件                                                        |
+| [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)                               | FFmpeg套壳UI，界面美观，交互友好                                              |
+| [SnapLock](https://github.com/OldSuns/SnapLock)                                        | 离开电脑时自动监控并拍照锁屏防止他人操作电脑                                  |
+| [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility)                       | 自动将Windows资源管理器窗口转换为标签页                                       |
+| [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)                        | 自定义Windows任务栏透明度                                                     |
+| [aya](https://github.com/liriliri/aya)                                                 | Android ADB 桌面应用程序                                                      |
+| [BongoCat](https://github.com/ayangweb/BongoCat)                                       | 互动桌宠                                                                      |
+| [video2x](https://github.com/k4yt3x/video2x)                                           | 视频超分辨率和插帧                                                            |
+| [AltSnap](https://github.com/RamonUnch/AltSnap)                                        | 按住Alt随意控制窗口                                                           |
+| [kdeconnect](https://kdeconnect.kde.org/download.html)                                 | 局域网跨设备同步剪切板、文件、通知等                                          |
+| [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)                         | 小红书作品下载器                                                              |
+| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)                      | 第三方音乐播放器                                                              |
+| [Gopeed](https://github.com/GopeedLab/gopeed)                                          | 下载工具                                                                      |
+| [AB Download Manager](https://github.com/amir1376/ab-download-manager)                 | 下载工具                                                                      |
+| [zyfun](https://github.com/Hiram-Wong/zyfun)                                           | 跨平台桌面端视频资源播放器                                                    |
+| [Screenbox](https://github.com/huynhsontung/Screenbox)                                 | 本地视频播放器                                                                |
+| [HandBrake](https://github.com/HandBrake/HandBrake)                                    | 视频处理工具                                                                  |
+| [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)                         | Bilibili 视频下载器                                                           |
+| [File Converter](https://github.com/Tichau/FileConverter)                              | 转换文件格式                                                                  |
+| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)                      | Windows激活工具                                                               |
+| [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)                                       | 开源、免费的离线OCR软件                                                       |
+| [DevToys](https://github.com/DevToys-app/DevToys)                                      | 开发者小工具                                                                  |
+| [Pixeval](https://github.com/Pixeval/Pixeval)                                          | 第三方pixiv客户端                                                             |
+| [Zen](https://github.com/ZenPrivacy/zen-desktop)                                       | 广告拦截工具                                                                  |
+| [SPlayer](https://github.com/imsyy/SPlayer)                                            | 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体            |
+| [dupeGuru](https://github.com/arsenetar/dupeguru)                                      | 查找重复文件                                                                  |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic)                                | 第三方网易云音乐                                                              |
+| [LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) | 联想笔记本工具集                                                              |
+| [LocalSend](https://github.com/localsend/localsend)                                    | 局域网传输软件                                                                |
+| [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)                       | 显示硬件使用信息的工具                                                        |
+| [Upscayl](https://github.com/upscayl/upscayl)                                          | 图像放大软件                                                                  |
+| [SteamTools](https://github.com/BeyondDimension/SteamTools)                            | 多功能Steam工具箱                                                             |
+| [Stretchly](https://github.com/hovancik/stretchly)                                     | 休息时间提醒应用                                                              |
+| [breeze-shell](https://github.com/std-microblock/breeze-shell)                         | Windows右键菜单优化工具                                                       |
+| [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)                 | Windows右键菜单上下文管理工具具                                               |
+| [UniGetUI](https://github.com/Devolutions/UniGetUI)                                    | 软件管理器，可连接GitHub账号备份软件列表                                      |
+| [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)                 | GitHub收藏管理器                                                              |
 
 ---
 
