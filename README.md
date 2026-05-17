@@ -130,7 +130,7 @@
 | [SteamTools](https://github.com/BeyondDimension/SteamTools)                            | 多功能Steam工具箱                                                             |
 | [Stretchly](https://github.com/hovancik/stretchly)                                     | 休息时间提醒应用                                                              |
 | [breeze-shell](https://github.com/std-microblock/breeze-shell)                         | Windows右键菜单优化工具                                                       |
-| [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)                 | Windows右键菜单上下文管理工具具                                               |
+| [ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr)                              | Windows右键菜单管理工具具                                                     |
 | [UniGetUI](https://github.com/Devolutions/UniGetUI)                                    | 软件管理器，可连接GitHub账号备份软件列表                                      |
 | [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)                 | GitHub收藏管理器                                                              |
 
